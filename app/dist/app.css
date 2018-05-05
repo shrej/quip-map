@@ -1,0 +1,11 @@
+.App__noborder {
+  border: 0;
+}
+input.App__address {
+  width: 400px;
+}
+button.App__submit {
+  margin-left: 50px;
+}
+
+/*# sourceMappingURL=app.css.map*/
